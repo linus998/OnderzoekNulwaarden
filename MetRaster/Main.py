@@ -1,9 +1,13 @@
+#imports
+#==================================================================================================================================
 import tkinter as tk
 from tkinter import ttk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import numpy as np
 import matplotlib.pyplot as plt
 from sympy import Symbol, sympify, solve
+#methodes
+#==================================================================================================================================
 from bisectie import BisectieOplosser
 from secant import SecantOplosser
 from newtonraphson import NewtonRaphsonOplosser
@@ -11,10 +15,12 @@ from interval import optimaal_bereik
 from functiewaarde import evalueer_sympy_functie
 
 # Global Variables
+#==================================================================================================================================
 TOLERANTIE = 1e-10
 MAXIMUM_HERHALINGEN = 100
 
 # Functions
+#==================================================================================================================================
 def validate_inputs():
     """Validates user inputs and returns the parsed function and interval."""
     try:
@@ -105,6 +111,7 @@ def update_theme(theme):
     style.theme_use(theme)
 
 # TKINTER GUI Setup
+#==================================================================================================================================
 root = tk.Tk()
 root.title("Worteloplossing")
 root.geometry("800x700")

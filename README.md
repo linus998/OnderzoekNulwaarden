@@ -43,7 +43,7 @@ OnderzoekNulwaarden is een project waarmee je wiskundige functies kunt analysere
 3. Run het programma in de terminal:
 
    ```bash
-   python Main_2.0(Optimization+GUI).py
+   python Main.py
    ```
 
 ## Bestandsoverzicht

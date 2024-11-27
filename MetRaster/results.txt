@@ -1,0 +1,1007 @@
+Functie: -10*x - 2
+Bisectie: [-0.19999999999417994]
+Newton-Raphson: [-0.2]
+Secant: [-0.2]
+Echte wortels: [-0.2]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+--- Functie 1 ---
+Functie: -6*x**4 + 10*x**2 + 7
+Bisectie: [-1.4824165390717106, 1.482416539070254]
+Newton-Raphson: [-1.4824165390712811, -1.4824165390712811]
+Secant: [-1.4824165390712425, 1.4824165390712811]
+Echte wortels: [-1.4824165390712811, 1.4824165390712811]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 16
+Iteraties Secant: 16
+
+--- Functie 2 ---
+Functie: -3*x**2 - 10*x + 3
+Bisectie: [-3.6103172982810072, 0.27698396494379196]
+Newton-Raphson: [-3.6103172982817666, 0.27698396494843347]
+Secant: [-3.610317298282736, 0.27698396494305205]
+Echte wortels: [0.27698396494843347, -3.6103172982817666]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 10
+
+--- Functie 3 ---
+Functie: -4*x**5 + 3*x**4 + 8*x**3 + 2*x + 6
+Bisectie: [1.9482722280201408]
+Newton-Raphson: [1.9482722280208615]
+Secant: [1.9482722280208618]
+Echte wortels: [1.9482722280208615]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 9
+
+--- Functie 4 ---
+Functie: -3*x - 3
+Bisectie: [-1.0000000000116422]
+Newton-Raphson: [-1.0]
+Secant: [-1.0]
+Echte wortels: [-1.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 5 ---
+Functie: 2*x**4 - 7*x**3 + 2*x + 10
+Bisectie: [1.4724093448632622, 3.2619618591335886]
+Newton-Raphson: [3.261961859134197, 3.2619618591341966]
+Secant: [1.4724093448575184, 3.261961859134196]
+Echte wortels: [3.261961859134196, 1.4724093448612692]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 22
+Iteraties Secant: 13
+
+--- Functie 6 ---
+Functie: 7 - 5*x
+Bisectie: [1.4000000000116408]
+Newton-Raphson: [1.4]
+Secant: [1.4]
+Echte wortels: [1.4]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 7 ---
+Functie: -3*x**5 + 5*x**4 - 5*x - 3
+Bisectie: [-0.5109485403634615]
+Newton-Raphson: [-0.5109485403564368]
+Secant: [-0.5109485403564227]
+Echte wortels: [-0.5109485403564368]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 8
+Iteraties Secant: 7
+
+--- Functie 8 ---
+Functie: 8*x - 2
+Bisectie: [0.24999999998835776]
+Newton-Raphson: [0.25]
+Secant: [0.25]
+Echte wortels: [0.25]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 9 ---
+Functie: -2*x**5 + 4*x**4 + 4*x**3 - 4*x**2
+Bisectie: [-1.1700864866259515, 0.6888921825331629, 2.4811943040924227]
+Newton-Raphson: [-1.1700864866260337, -1.3183216161716368e-06, 0.6888921825340182]
+Secant: [-3.406501579720528e-06, 0.6888921825340866, 2.481194304092008]
+Echte wortels: [0.0]
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 31
+Iteraties Secant: 41
+
+--- Functie 10 ---
+Functie: -4*x**3 - 6*x**2
+Bisectie: [-1.4999999999970903]
+Newton-Raphson: [-1.5]
+Secant: [-1.4999999999999498]
+Echte wortels: [-1.5, 0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 7
+
+--- Functie 11 ---
+Functie: 3*x + 9
+Bisectie: [-3.0000000000116422]
+Newton-Raphson: [-3.0]
+Secant: [-3.0]
+Echte wortels: [-3.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 12 ---
+Functie: 2*x**5 + 2*x**3 + 2*x**2 - 7*x
+Bisectie: [-1.3238260842961616, -1.1642242725429242e-11, 1.0667940046580036]
+Newton-Raphson: [-1.3238260842930014, 0.0, 1.0667940046608544]
+Secant: [-1.3238260842953113, 7.29749548007523e-12, 1.0667940046600999]
+Echte wortels: [0.0, 1.0667940046608544, -1.3238260842930014]
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 24
+Iteraties Secant: 21
+
+--- Functie 13 ---
+Functie: -4*x**3 + 9*x
+Bisectie: [-1.4999999999970903, 2.9096725029376103e-12, 1.5000000000029097]
+Newton-Raphson: [-1.5, 0.0, -1.5]
+Secant: [-1.5, 2.202285662861181e-20, 1.4999999999993805]
+Echte wortels: [-1.5, 0.0, 1.5]
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 25
+Iteraties Secant: 19
+
+--- Functie 14 ---
+Functie: -9*x**4 + 8*x**2 - 4
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 15 ---
+Functie: -8*x**2 - 1
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 16 ---
+Functie: -6*x**3 + 4*x**2 + 10*x + 2
+Bisectie: [-0.8422586605418481, -0.22786882448126633, 1.7367941516888088]
+Newton-Raphson: [-0.8422586605465032, -0.22786882447661344, 1.7367941516897831]
+Secant: [-0.22786882448227197, -0.22786882447661333, 1.7367941516897836]
+Echte wortels: []
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 16
+Iteraties Secant: 18
+
+--- Functie 17 ---
+Functie: -8*x - 4
+Bisectie: [-0.5000000000116422]
+Newton-Raphson: [-0.5]
+Secant: [-0.5]
+Echte wortels: [-0.5]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 18 ---
+Functie: -10*x**3
+Bisectie: [-0.00019531250000071054]
+Newton-Raphson: [-0.0001353278969197732]
+Secant: [-0.00016683222577089564]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 19
+Iteraties Secant: 27
+
+--- Functie 19 ---
+Functie: 2*x**4 + 8*x**3 + 4*x
+Bisectie: [-4.117942271443827, -1.1642242725429242e-11]
+Newton-Raphson: [-4.117942271444376, 0.0]
+Secant: [-4.117942271444219, -1.8634724839594607e-20]
+Echte wortels: [0.0, -4.117942271444376]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 13
+
+--- Functie 20 ---
+Functie: 3*x**2 - 10
+Bisectie: [-1.825741858349648, 1.8257418583554674]
+Newton-Raphson: [-1.8257418583505538, 1.8257418583505538]
+Secant: [-1.8257418583505536, 1.825741858350145]
+Echte wortels: [-1.8257418583505538, 1.8257418583505538]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 11
+
+--- Functie 21 ---
+Functie: 8*x**2 + 8
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 22 ---
+Functie: -6*x**3 + 8*x**2
+Bisectie: [1.3333333333313924]
+Newton-Raphson: [-1.3327353822837476e-06]
+Secant: [1.3333333333331596]
+Echte wortels: [0.0, 1.3333333333333333]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 17
+Iteraties Secant: 10
+
+--- Functie 23 ---
+Functie: 10*x**3 - 9*x**2 - 3*x + 9
+Bisectie: [-0.816691487158824]
+Newton-Raphson: [-0.8166914871575676]
+Secant: [-0.8166914871575676]
+Echte wortels: [-0.8166914871575676]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 9
+
+--- Functie 24 ---
+Functie: -4*x**3
+Bisectie: [-0.00019531250000071054]
+Newton-Raphson: [-0.00013532789691977318]
+Secant: [-0.00022100564532716766]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 19
+Iteraties Secant: 26
+
+--- Functie 25 ---
+Functie: -9*x**3 + 9*x**2 - 10
+Bisectie: [-0.7882509652161396]
+Newton-Raphson: [-0.7882509652168747]
+Secant: [-0.7882509652168772]
+Echte wortels: [-0.7882509652168747]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 8
+
+--- Functie 26 ---
+Functie: -7*x**2 + 9*x
+Bisectie: [2.9096725029376103e-12, 1.2857142857130377]
+Newton-Raphson: [-9.328804007879531e-24, 1.2857142857142856]
+Secant: [-3.597350045072504e-13, 1.285714285714269]
+Echte wortels: [0.0, 1.2857142857142858]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 14
+Iteraties Secant: 15
+
+--- Functie 27 ---
+Functie: -7*x**2 + 6*x
+Bisectie: [-1.1642242725429242e-11, 0.8571428571478457]
+Newton-Raphson: [0.0, 0.8571428571428571]
+Secant: [0.857142857142857, 0.8571428571428559]
+Echte wortels: [0.0, 0.8571428571428571]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 12
+Iteraties Secant: 16
+
+--- Functie 28 ---
+Functie: -7*x**4 - 10*x**2
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: [0.0]
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 29 ---
+Functie: x**4 - x**3 - 4*x - 5
+Bisectie: [-0.9015922122605851, 2.240891555239795]
+Newton-Raphson: [-0.901592212258538, 2.2408915552422575]
+Secant: [-0.9015922122584586, 2.240891555241707]
+Echte wortels: [2.2408915552422575, -0.9015922122585381]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 13
+Iteraties Secant: 14
+
+--- Functie 30 ---
+Functie: x**2 + 8
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 31 ---
+Functie: 5*x**5 - x**3 - 6*x**2
+Bisectie: [1.1253257040982128]
+Newton-Raphson: [1.055336238512892e-06]
+Secant: [-3.5544151430425556e-06]
+Echte wortels: [0.0, 1.125325704100026]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 17
+Iteraties Secant: 30
+
+--- Functie 32 ---
+Functie: -3*x**2 + 7*x
+Bisectie: [-1.1642242725429242e-11, 2.3333333333313924]
+Newton-Raphson: [-1.5777218104420236e-30, 2.3333333333333335]
+Secant: [1.0894365040626207e-12, 2.3333333333333384]
+Echte wortels: [0.0, 2.3333333333333335]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 11
+Iteraties Secant: 12
+
+--- Functie 33 ---
+Functie: 9*x**3 + 10*x**2 - 5
+Bisectie: [0.5741553980798919]
+Newton-Raphson: [0.5741553980773997]
+Secant: [0.5741553980773997]
+Echte wortels: [0.5741553980773997]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 16
+Iteraties Secant: 8
+
+--- Functie 34 ---
+Functie: 9*x**3 - 4*x**2
+Bisectie: [0.4444444444263347]
+Newton-Raphson: [-1.814920676936763e-06]
+Secant: [4.131253141634727e-06]
+Echte wortels: [0.0, 0.4444444444444444]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 18
+Iteraties Secant: 21
+
+--- Functie 35 ---
+Functie: -3*x**2 - 4*x
+Bisectie: [-1.333333333325573, -1.1642242725429242e-11]
+Newton-Raphson: [-1.3333333333333333, 0.0]
+Secant: [-1.3333333333333368, -2.6125672466874826e-17]
+Echte wortels: [-1.3333333333333333, 0.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 12
+Iteraties Secant: 12
+
+--- Functie 36 ---
+Functie: -10*x**4 - 2*x**3 - 6
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 37 ---
+Functie: -x**3 - x**2 - 5*x
+Bisectie: [-1.1642242725429242e-11]
+Newton-Raphson: [0.0]
+Secant: [-3.3276728269616973e-12]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 5
+Iteraties Secant: 5
+
+--- Functie 38 ---
+Functie: x**5 - 7*x**4 - 7*x**3 + 2*x + 5
+Bisectie: [-1.1118952568474931, 0.819458449793455, 7.882648093265868]
+Newton-Raphson: [-1.11189525684676, 0.8194584497940236, 7.882648093265867]
+Secant: [-1.1118952568467595, 0.8194584497935576, 7.882648093265872]
+Echte wortels: [-1.1118952568467597, 0.8194584497940236, 7.882648093265866]
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 17
+Iteraties Secant: 29
+
+--- Functie 39 ---
+Functie: 3*x**2 - 5
+Bisectie: [-1.2909944487444598, 1.2909944487357272]
+Newton-Raphson: [-1.2909944487358056, 1.2909944487358056]
+Secant: [-1.2909944487358354, 1.2909944487358065]
+Echte wortels: [-1.2909944487358056, 1.2909944487358056]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 11
+
+--- Functie 40 ---
+Functie: 7*x + 7
+Bisectie: [-1.0000000000116422]
+Newton-Raphson: [-1.0]
+Secant: [-1.0]
+Echte wortels: [-1.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 41 ---
+Functie: -5*x**3 + 5*x**2 - 5*x
+Bisectie: [-1.1642242725429242e-11]
+Newton-Raphson: [0.0]
+Secant: [6.913725702237337e-12]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 6
+
+--- Functie 42 ---
+Functie: 4*x**5 + 9*x + 6
+Bisectie: [-0.6244629380205886]
+Newton-Raphson: [-0.6244629380213736]
+Secant: [-0.6244629380213735]
+Echte wortels: [-0.6244629380213735]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 7
+
+--- Functie 43 ---
+Functie: 8 - 5*x**2
+Bisectie: [-1.264911064074841, 1.2649110640661085]
+Newton-Raphson: [-1.2649110640673518, 1.2649110640673518]
+Secant: [-1.2649110640673518, 1.2649110640673533]
+Echte wortels: [-1.2649110640673518, 1.2649110640673518]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 12
+
+--- Functie 44 ---
+Functie: x**3 - 3*x**2 - 8
+Bisectie: [3.612887864717049]
+Newton-Raphson: [3.6128878647175444]
+Secant: [3.6128878647169733]
+Echte wortels: [3.612887864717545]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 5
+
+--- Functie 45 ---
+Functie: 4 - x**2
+Bisectie: [-2.0000000000116422, 1.9999999999883578]
+Newton-Raphson: [-2.0, 2.0]
+Secant: [-2.0, 1.9999999999966065]
+Echte wortels: [-2.0, 2.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 11
+
+--- Functie 46 ---
+Functie: -2*x**3 - 6*x**2 - 4*x + 3
+Bisectie: [0.4311271443904836]
+Newton-Raphson: [0.43112714439368943]
+Secant: [0.4311271443936874]
+Echte wortels: [0.43112714439368943]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 9
+Iteraties Secant: 7
+
+--- Functie 47 ---
+Functie: 3*x + 6
+Bisectie: [-2.0000000000116422]
+Newton-Raphson: [-2.0]
+Secant: [-2.0]
+Echte wortels: [-2.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 48 ---
+Functie: -9*x**4 - 3*x**3 - x**2 + 3
+Bisectie: [-0.8142758411966504, 0.6596267872984747]
+Newton-Raphson: [-0.8142758411951355, -0.8142758411951355]
+Secant: [-0.8142758411951355, 0.6596267872928142]
+Echte wortels: []
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 19
+Iteraties Secant: 22
+
+--- Functie 49 ---
+Functie: 7*x**5 - 8*x**4
+Bisectie: [1.1428571428579737]
+Newton-Raphson: [0.0011130551348233937]
+Secant: [0.001643759173273568]
+Echte wortels: [0.0, 1.1428571428571428]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 21
+Iteraties Secant: 30
+
+--- Functie 50 ---
+Functie: -3*x**5 - 10*x**3 + 5*x
+Bisectie: [-0.6644685395993299]
+Newton-Raphson: [-0.6644685395955574]
+Secant: [1.926152922056279e-18]
+Echte wortels: [0.0, -0.6644685395955574, 0.6644685395955574]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 8
+Iteraties Secant: 7
+
+--- Functie 51 ---
+Functie: -4*x**3 + 9*x**2 - x + 6
+Bisectie: [2.4053282786728225]
+Newton-Raphson: [2.4053282786755834]
+Secant: [2.4053282786755834]
+Echte wortels: [2.4053282786755834]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 8
+Iteraties Secant: 7
+
+--- Functie 52 ---
+Functie: 5
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 53 ---
+Functie: 8*x**4 - 10
+Bisectie: [-1.0573712634402916, 1.057371263438835]
+Newton-Raphson: [-1.057371263440564, 1.057371263440564]
+Secant: [-1.0573712634405688, 1.0573712634383965]
+Echte wortels: [-1.057371263440564, 1.057371263440564]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 13
+Iteraties Secant: 19
+
+--- Functie 54 ---
+Functie: -4*x**2 - 5*x - 3
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 55 ---
+Functie: -9*x**4 - 10*x**3 - 8*x**2 + 9
+Bisectie: [-1.080777780251811, 0.6863756010963691]
+Newton-Raphson: [-1.0807777802509888, -1.080777780250989]
+Secant: [-1.0807777802509888, 0.6863756010954115]
+Echte wortels: []
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 16
+Iteraties Secant: 16
+
+--- Functie 56 ---
+Functie: -9*x**4 + 7*x**2 - 2*x - 4
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 57 ---
+Functie: -3*x**4 - 4*x**2 - 9*x
+Bisectie: [-1.139704843543587, 2.9096725029376103e-12]
+Newton-Raphson: [-1.1397048435471393, 9.166437500923322e-25]
+Secant: [1.186798387700378e-12, 7.006541343206746e-14]
+Echte wortels: [0.0, -1.1397048435471393]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 11
+Iteraties Secant: 14
+
+--- Functie 58 ---
+Functie: 6
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 59 ---
+Functie: 6*x**3 - 5*x**2 + 9
+Bisectie: [-0.9239100161692484]
+Newton-Raphson: [-0.9239100161723283]
+Secant: [-0.9239100161723305]
+Echte wortels: [-0.9239100161723283]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 8
+
+--- Functie 60 ---
+Functie: 10 - 2*x**2
+Bisectie: [-2.2360679774981698, 2.236067977489437]
+Newton-Raphson: [-2.23606797749979, 2.23606797749979]
+Secant: [-2.2360679774998498, 2.2360679774985135]
+Echte wortels: [-2.23606797749979, 2.23606797749979]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 9
+Iteraties Secant: 10
+
+--- Functie 61 ---
+Functie: 4*x**4 - x - 3
+Bisectie: [-0.855672869639239, 1.0000000000029097]
+Newton-Raphson: [-0.8556728696364336, 1.0]
+Secant: [-0.855672869636434, 1.0]
+Echte wortels: [1.0, -0.8556728696364336]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 14
+Iteraties Secant: 20
+
+--- Functie 62 ---
+Functie: 5*x**2 + 3*x
+Bisectie: [-0.5999999999883592, -1.1642242725429242e-11]
+Newton-Raphson: [-0.6, -0.6]
+Secant: [-0.599999999999999, 9.809776553354119e-16]
+Echte wortels: [-0.6, 0.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 61
+Iteraties Secant: 19
+
+--- Functie 63 ---
+Functie: 5*x**2 - x
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: [0.0, 0.2]
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 64 ---
+Functie: 10*x**5 + 6*x**4 - 6*x**3
+Bisectie: [-1.1306623862881686]
+Newton-Raphson: [-1.1306623862918075]
+Secant: [-0.0002031300934279877]
+Echte wortels: [0.0, 0.5306623862918075, -1.1306623862918075]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 27
+
+--- Functie 65 ---
+Functie: 4 - 10*x**3
+Bisectie: [0.7368062997295048]
+Newton-Raphson: [0.7368062997280773]
+Secant: [0.7368062997282253]
+Echte wortels: [0.7368062997280773]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 5
+Iteraties Secant: 6
+
+--- Functie 66 ---
+Functie: 10*x**3 - 6*x**2 + 7*x
+Bisectie: [-1.1642242725429242e-11]
+Newton-Raphson: [0.0]
+Secant: [-5.620813229190603e-16]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 6
+
+--- Functie 67 ---
+Functie: -8*x - 9
+Bisectie: [-1.1250000000116422]
+Newton-Raphson: [-1.125]
+Secant: [-1.125]
+Echte wortels: [-1.125]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 68 ---
+Functie: -6*x**3 + 6*x**2 - 8*x
+Bisectie: [-1.1642242725429242e-11]
+Newton-Raphson: [0.0]
+Secant: [3.3438402667986845e-14]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 6
+
+--- Functie 69 ---
+Functie: x**3 - 4*x**2 + x
+Bisectie: [3.732050807567429]
+Newton-Raphson: [3.7320508075688776]
+Secant: [3.7320508075673846]
+Echte wortels: [0.0, 0.2679491924311227, 3.732050807568877]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 4
+Iteraties Secant: 5
+
+--- Functie 70 ---
+Functie: 4*x**2 - 8*x
+Bisectie: [-1.1642242725429242e-11, 1.9999999999883578]
+Newton-Raphson: [-9.781875224740546e-29, 2.0]
+Secant: [1.4301939556152048e-17, 2.000000000000045]
+Echte wortels: [0.0, 2.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 13
+
+--- Functie 71 ---
+Functie: -10*x**3 - 4*x**2 + 9
+Bisectie: [0.8489012959573294]
+Newton-Raphson: [0.8489012959550817]
+Secant: [0.8489012959550815]
+Echte wortels: [0.8489012959550817]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 5
+Iteraties Secant: 7
+
+--- Functie 72 ---
+Functie: 5*x**5 - 4*x**4
+Bisectie: [0.7999999999767162]
+Newton-Raphson: [0.8]
+Secant: [0.7999999999940668]
+Echte wortels: [0.0, 0.8]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 10
+
+--- Functie 73 ---
+Functie: 7 - 5*x**3
+Bisectie: [1.1186889420816435]
+Newton-Raphson: [1.1186889420813968]
+Secant: [1.1186889420812174]
+Echte wortels: [1.1186889420813968]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 7
+
+--- Functie 74 ---
+Functie: -8*x**2 - 1
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 75 ---
+Functie: -10*x**2 - 4*x
+Bisectie: [-0.39999999997671765, -1.1642242725429242e-11]
+Newton-Raphson: [-0.39999999999999997, -0.4]
+Secant: [-0.39999999999967906, -0.39999999999999747]
+Echte wortels: [-0.4, 0.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 13
+Iteraties Secant: 18
+
+--- Functie 76 ---
+Functie: -6*x**2 - 10*x
+Bisectie: [-1.6666666666686076, 2.9096725029376103e-12]
+Newton-Raphson: [-1.6666666666666667, 0.0]
+Secant: [-1.6666666666627281, 1.191270172784531e-12]
+Echte wortels: [-1.6666666666666667, 0.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 12
+Iteraties Secant: 12
+
+--- Functie 77 ---
+Functie: 7*x**3 - 10
+Bisectie: [1.1262478804448612]
+Newton-Raphson: [1.1262478804436062]
+Secant: [1.1262478804434444]
+Echte wortels: [1.126247880443606]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 7
+
+--- Functie 78 ---
+Functie: -4*x**3 - 3*x**2 + 3*x
+Bisectie: [-1.3187293044000405]
+Newton-Raphson: [-1.3187293044088437]
+Secant: [-1.3187293044088533]
+Echte wortels: [0.0, 0.5687293044088437, -1.3187293044088437]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 5
+
+--- Functie 79 ---
+Functie: 3*x**3 + 10*x**2 - 10*x + 3
+Bisectie: [-4.186581246115384]
+Newton-Raphson: [-4.186581246116282]
+Secant: [-4.186581246116266]
+Echte wortels: [-4.186581246116282]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 5
+Iteraties Secant: 6
+
+--- Functie 80 ---
+Functie: 8*x**4 + 10
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 81 ---
+Functie: -x**3 - 2*x**2 + 10*x - 2
+Bisectie: [-4.3846909009414965, 0.2097187775390914, 2.174972123396582]
+Newton-Raphson: [-4.384690900938755, 0.20971877753737198, 2.1749721234013832]
+Secant: [-4.384690900938759, 0.20971877753737203, 2.174972123401383]
+Echte wortels: []
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 17
+Iteraties Secant: 18
+
+--- Functie 82 ---
+Functie: -8*x**3 - 9*x**2 - 5*x - 2
+Bisectie: [-0.7372088438831277]
+Newton-Raphson: [-0.7372088438780089]
+Secant: [-0.7372088438776526]
+Echte wortels: [-0.7372088438780088]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 7
+Iteraties Secant: 9
+
+--- Functie 83 ---
+Functie: 8*x**4 + 9*x**3 - 2*x - 5
+Bisectie: [-1.273473096026283, 0.7563681615967646]
+Newton-Raphson: [-1.2734730960266865, 0.7563681615935466]
+Secant: [-1.2734730960266534, 0.7563681615935464]
+Echte wortels: []
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 16
+
+--- Functie 84 ---
+Functie: -9*x**3 - 1
+Bisectie: [-0.48074985677958537]
+Newton-Raphson: [-0.4807498567691361]
+Secant: [-0.48074985676915394]
+Echte wortels: [-0.4807498567691361]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 8
+Iteraties Secant: 8
+
+--- Functie 85 ---
+Functie: -6*x**4 - 10*x**2 - 8*x
+Bisectie: [-0.6415603661414941, -1.1642242725429242e-11]
+Newton-Raphson: [-0.6415603661454555, 1.4791141972893971e-31]
+Secant: [9.612790571140659e-16, -7.976171721664265e-15]
+Echte wortels: [0.0, -0.6415603661454555]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 16
+Iteraties Secant: 25
+
+--- Functie 86 ---
+Functie: 9*x**3 + 5*x
+Bisectie: [-1.1642242725429242e-11]
+Newton-Raphson: [0.0]
+Secant: [-2.6814086975107676e-12]
+Echte wortels: [0.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 5
+Iteraties Secant: 5
+
+--- Functie 87 ---
+Functie: -8*x**3 - 3*x**2 + 10*x
+Bisectie: [-1.321147321698664, 2.9096725029376103e-12, 0.9461473216972074]
+Newton-Raphson: [-1.3211473217010659, 0.0, 0.9461473217010659]
+Secant: [-1.3211473217010787, -2.040184732580389e-18, 0.9461473217010579]
+Echte wortels: [0.0, 0.9461473217010659, -1.3211473217010659]
+Iteraties bisectie: 3
+Iteraties Newton-Raphson: 19
+Iteraties Secant: 22
+
+--- Functie 88 ---
+Functie: 2*x**3 - 3*x - 10
+Bisectie: [2.0000000000029097]
+Newton-Raphson: [2.0]
+Secant: [2.0000000000008673]
+Echte wortels: [2.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 6
+
+--- Functie 89 ---
+Functie: -10*x**3 + 7*x - 6
+Bisectie: [-1.1131160551711226]
+Newton-Raphson: [-1.1131160551714743]
+Secant: [-1.1131160551714288]
+Echte wortels: [-1.1131160551714743]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 5
+Iteraties Secant: 10
+
+--- Functie 90 ---
+Functie: -2*x**5 - 2*x**3 - 3*x**2 - 4*x + 1
+Bisectie: [0.21150631517521035]
+Newton-Raphson: [0.21150631517784024]
+Secant: [0.21150631517781993]
+Echte wortels: [0.21150631517784024]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 6
+Iteraties Secant: 7
+
+--- Functie 91 ---
+Functie: 10*x**2 + 4
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 92 ---
+Functie: 5*x**2 + 7
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 93 ---
+Functie: 2*x**2 - x + 1
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 94 ---
+Functie: 5 - 9*x
+Bisectie: [0.5555555555503808]
+Newton-Raphson: [0.5555555555555556]
+Secant: [0.5555555555555556]
+Echte wortels: [0.5555555555555556]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 95 ---
+Functie: 7*x**2 - 7*x
+Bisectie: [-1.1642242725429242e-11, 0.9999999999883578]
+Newton-Raphson: [0.0, 1.0]
+Secant: [-2.420517348974147e-16, 0.9999999999998668]
+Echte wortels: [0.0, 1.0]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 12
+Iteraties Secant: 21
+
+--- Functie 96 ---
+Functie: -3*x**4 + 7*x - 1
+Bisectie: [0.1430365381995209, 1.274833777980529]
+Newton-Raphson: [0.1430365382054, 0.1430365382054]
+Secant: [0.14303653820533774, 1.2748337779824783]
+Echte wortels: [0.14303653820540002, 1.2748337779824783]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 16
+
+--- Functie 97 ---
+Functie: 4 - 4*x
+Bisectie: [0.9999999999883578]
+Newton-Raphson: [1.0]
+Secant: [1.0]
+Echte wortels: [1.0]
+Iteraties bisectie: 1
+Iteraties Newton-Raphson: 2
+Iteraties Secant: 1
+
+--- Functie 98 ---
+Functie: 9*x**2 - 5*x + 3
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: []
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0
+
+--- Functie 99 ---
+Functie: 8*x**2 - 7
+Bisectie: [-0.935414346688777, 0.9354143466945963]
+Newton-Raphson: [-0.9354143466934853, 0.9354143466934853]
+Secant: [-0.9354143466934852, 0.9354143466935209]
+Echte wortels: [-0.9354143466934853, 0.9354143466934853]
+Iteraties bisectie: 2
+Iteraties Newton-Raphson: 10
+Iteraties Secant: 13
+
+--- Functie 100 ---
+Functie: 5*x**2 - 3*x
+Bisectie: []
+Newton-Raphson: []
+Secant: []
+Echte wortels: [0.0, 0.6]
+Iteraties bisectie: 0
+Iteraties Newton-Raphson: 0
+Iteraties Secant: 0

@@ -1,5 +1,3 @@
----
-
 # OnderzoekNulwaarden
 
 OnderzoekNulwaarden is een project waarmee je wiskundige functies kunt analyseren en hun nulpunten kunt berekenen met behulp van verschillende numerieke methoden, waaronder de bisectiemethode, de Newton-Raphson-methode en de secant-methode. Het bevat ook een interactieve grafische gebruikersinterface (GUI) voor het visualiseren van functies en het toepassen van deze methoden.
@@ -66,5 +64,3 @@ OnderzoekNulwaarden is een project waarmee je wiskundige functies kunt analysere
 ## Ondersteuning
 
 De video in de folder geeft een uitgebreide uitleg over het gebruik van dit programma. Mocht je verdere vragen hebben, open een issue in deze repository.
-
----
